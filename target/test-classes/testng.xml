@@ -1,0 +1,15 @@
+<suite name="TestAll">
+
+    <test name="domain">
+        <classes>
+            <class name="com.teksystems.restsolutions.domain.CountryTest" />
+        </classes>
+    </test>
+
+    <test name="service">
+        <classes>
+            <class name="com.teksystems.restsolutions.service.CapitalCityResourceTest" />
+        </classes>
+    </test>
+
+</suite>
